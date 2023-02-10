@@ -10,6 +10,6 @@ Two things was expected from us :
 
 ## Respository Description
 
-This repository contains one main jupyter notebook which was used on **Kaggle** to get our best score **_0.80335_**. The is also a folder entitled data which is filled with the projects data and some data crated by us to meet our needs.
+This repository contains one main jupyter notebook which was used on **Kaggle** to get our best score **_0.80335_**. There is also a folder entitled data which is filled with the projects data and some data crated by us to meet our needs.
 
 
